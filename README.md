@@ -1,4 +1,4 @@
-# Estados e Cidades do Algeria (Laravel)
+# States and Cities of Algeria (Laravel)
 
 
 ## How to use?
@@ -12,7 +12,7 @@ Download and copy the migrations and seeds to the respective folders.
 
 ### 2. Register the seeds
 
-n the file `DatabaseSeeder.php`, add the seeds call.
+in the file `DatabaseSeeder.php`, add the seeds call.
 
 ```php
 public function run() {
